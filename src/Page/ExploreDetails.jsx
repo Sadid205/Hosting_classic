@@ -18,7 +18,7 @@ const ExploreDetails = () => {
            <button className='text-blue-500 '>Explore Details</button>
             <span className='ml-2 text-blue-500'><AiOutlineRight/></span>
            </div>
-           <img src={video} alt="video" />
+           <img className='w-full' src={video} alt="video" />
         </div>
       </div>
     </div>
