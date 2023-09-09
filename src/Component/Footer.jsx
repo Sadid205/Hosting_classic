@@ -183,10 +183,10 @@ const Footer = () => {
                 <a className="font-semibold text-blue-900" href="/home">Home</a>
               </li>
               <li className="ml-2">
-                <a className="font-semibold text-blue-900" href="/home">Adversite</a>
+                <a className="font-semibold text-blue-900" href="/adversite">Adversite</a>
               </li>
               <li className="ml-2">
-                <a className="font-semibold text-blue-900" href="/home">Supports</a>
+                <a className="font-semibold text-blue-900" href="/about">Supports</a>
               </li>
               <li className="ml-2">
                 <a className="font-semibold text-blue-900" href="/home">Marketing</a>
