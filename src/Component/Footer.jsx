@@ -180,19 +180,19 @@ const Footer = () => {
           <div className="flex items-center">
             <ul className="flex">
               <li className="ml-2">
-                <a className="font-semibold text-blue-900" href="/home">Home</a>
+                <a className="font-semibold text-blue-900" href="/">Home</a>
               </li>
               <li className="ml-2">
                 <a className="font-semibold text-blue-900" href="/adversite">Adversite</a>
               </li>
               <li className="ml-2">
-                <a className="font-semibold text-blue-900" href="/about">Supports</a>
+                <a className="font-semibold text-blue-900" href="/supports">Supports</a>
               </li>
               <li className="ml-2">
-                <a className="font-semibold text-blue-900" href="/home">Marketing</a>
+                <a className="font-semibold text-blue-900" href="/marketing">Marketing</a>
               </li>
               <li className="ml-2">
-                <a className="font-semibold text-blue-900" href="/home">FAQ</a>
+                <a className="font-semibold text-blue-900" href="/faq">FAQ</a>
               </li>
             </ul>
           </div>
