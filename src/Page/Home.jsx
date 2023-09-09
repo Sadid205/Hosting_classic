@@ -8,7 +8,7 @@ const Home = () => {
        <div className='justify-between px-4 py-8 m-auto md:container md:flex'>
         {/* Left Side Div */}
             <div>
-                <h1 className='text-5xl font-semibold text-blue-950 '>A Creative way to <br />
+                <h1 className='text-4xl font-semibold text-blue-950 '>A Creative way to <br />
                   grow your Exciting <br />
                   Business ideas
                 </h1>
